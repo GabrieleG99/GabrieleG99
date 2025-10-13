@@ -27,8 +27,8 @@ I'm a master student in Computer Science and Engineering [@polimi](https://www.p
 - LinkedIn: [@Gabriele Giusti](https://www.linkedin.com/in/gabgius/)
 - Mail: gabriele.giusti@mail.polimi.it
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrieleG99&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrieleG99&show_icons=true&theme=default)-->
 
 ---
