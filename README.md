@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a master student in Computer Science and Engineering [@polimi]([https://www.polimi.it]), passionate of Software Engineering and AI.
+I'm a master student in Computer Science and Engineering [@polimi](https://www.polimi.it), passionate of Software Engineering and AI.
 
 ## 🔭 What I'm Working On
 
