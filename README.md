@@ -24,7 +24,7 @@ I'm a master student in Computer Science and Engineering [@polimi]([https://www.
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [@Gabriele Giusti]([(https://www.linkedin.com/in/gabgius/])
+- LinkedIn: [@Gabriele Giusti](https://www.linkedin.com/in/gabgius/)
 - Mail: gabriele.giusti@mail.polimi.it
 
 ## 📊 GitHub Stats
