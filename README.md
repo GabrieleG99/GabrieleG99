@@ -6,7 +6,7 @@ I'm a PhD student in Computer Science and Engineering [@polimi](https://www.poli
 
 ## 🔭 What I'm Working On
 
-- Multimodal Anomaly Detection in industrial prodesses
+- Multimodal Anomaly Detection in industrial processes
 - Contributing to open-source projects
 
 ## 🌱 Currently Learning
