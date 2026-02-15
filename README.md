@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a master student in Computer Science and Engineering [@polimi](https://www.polimi.it), passionate of Software Engineering and AI.
+I'm a PhD student in Computer Science and Engineering [@polimi](https://www.polimi.it), passionate of Software Engineering and AI.
 
 ## 🔭 What I'm Working On
 
-- PhD student in Multimodal Anomaly Detection [@polimi](https://www.polimi.it)
+- Multimodal Anomaly Detection in industrial prodesses
 - Contributing to open-source projects
 
 ## 🌱 Currently Learning
