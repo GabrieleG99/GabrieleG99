@@ -6,7 +6,7 @@ I'm a master student in Computer Science and Engineering [@polimi](https://www.p
 
 ## 🔭 What I'm Working On
 
-- Completing my Master Thesis in Multi Agent Molecular Communication
+- PhD student in Multimodal Anomaly Detection [@polimi](https://www.polimi.it)
 - Contributing to open-source projects
 
 ## 🌱 Currently Learning
@@ -25,7 +25,7 @@ I'm a master student in Computer Science and Engineering [@polimi](https://www.p
 ## 📫 How to Reach Me
 
 - LinkedIn: [@Gabriele Giusti](https://www.linkedin.com/in/gabgius/)
-- Mail: gabriele.giusti@mail.polimi.it
+- Mail: gabriele.giusti@polimi.it
 
 <!--## 📊 GitHub Stats
 
